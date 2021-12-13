@@ -23,6 +23,10 @@ export class AppComponent {
     }
   ]
 
+  constructor() { 
+    
+  }
+
   onAllumer(){
     console.log("On allume tout !");
   }
